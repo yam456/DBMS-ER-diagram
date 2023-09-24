@@ -49,5 +49,6 @@ A university registrar’s office maintains data about the following entities:
 
 Further, the enrollment of students in courses and grades awarded to students in each course they are enrolled for must be appropriately modeled. Construct an E-R diagram forthe registrar’s office. Document all assumptions that you make about the mapping constraints.
 
-![University](https://github.com/yam456/DBMS-ER-diagram/assets/135616309/85a73632-d522-4766-98f0-244dc57408a9)
+![University](https://github.com/yam456/DBMS-ER-diagram/assets/135616309/61a31f3c-7659-4ca5-9d5d-842f53d3c7e9)
+
 
